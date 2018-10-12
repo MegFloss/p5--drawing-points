@@ -6,4 +6,5 @@ function setup() {
 }
 
 function draw() {
+    point(5, 5);
 }
