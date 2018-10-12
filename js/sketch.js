@@ -6,8 +6,15 @@ function setup() {
 }
 
 function draw() {
+    stroke(255, 0, 0);
     point(5, 5);
+
+    stroke(0, 255, 255);
     point(95, 5);
+
+    stroke(0, 0, 255);
     point(5, 95);
+
+    stroke(255, 0, 255);
     point(95, 95);
 }
