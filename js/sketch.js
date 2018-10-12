@@ -7,4 +7,7 @@ function setup() {
 
 function draw() {
     point(5, 5);
+    point(95, 5);
+    point(5, 95);
+    point(95, 95);
 }
